@@ -5,8 +5,12 @@ scipy
 datetime
 matplotlib
 seaborn
-plotly
 scikit-learn
 statsmodels
 imbalanced-learn
 tensorflow
+transformer_lens
+circuitsvis
+torch
+einops
+plotly
